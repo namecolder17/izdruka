@@ -1,1 +1,1 @@
-import vardnicas
+import citi_datu_tipi
